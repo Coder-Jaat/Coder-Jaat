@@ -1,11 +1,25 @@
+<!-- 🔥 Hacker-Style Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="banner" width="100%" />
+</p>
+
+<!-- 👋 Name -->
 <h1 align="center">Hi 👋, I'm Sagar Rana</h1>
-<h3 align="center">Red Team Mindset | Blue Team Expertise | Always Evolving in Cybersecurity</h3>
+
+<!-- ✍️ Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Red+Team+Mindset;Blue+Team+Expertise;Always+Evolving+in+Cybersecurity" alt="Typing SVG" />
+</p>
+
+<!-- 🛡️ Tagline -->
 <p align="center">🛡️ Cybersecurity Professional | 🌐 Network Engineer | 🐍 Python & Linux Enthusiast</p>
 
+<!-- 👁️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coder-jaat&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jaat" />
 </p>
 
+<!-- 🏆 Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coder-jaat&theme=algolia" alt="Trophies" />
 </p>
@@ -35,6 +49,7 @@
 </a>
 </p>
 
+<!-- 💬 Discord Badge -->
 <p align="center">
   <a href="https://discord.gg/XpYjVz8Yre">
     <img src="https://img.shields.io/discord/XpYjVz8Yre?label=Join%20My%20Discord&logo=discord&style=for-the-badge" />
@@ -78,6 +93,7 @@
 
 ---
 
+<!-- 📊 GitHub Stats -->
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-jaat&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
