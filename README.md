@@ -38,7 +38,7 @@ Always eager to learn and collaborate with like-minded tech professionals.
 ## 📫 Let's Connect
 
 📧 Email: **cjaat316@gmail.com**  
-🌐 GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
+🌐 GitHub: [github.com/YourUsername](https://github.com/Coder-Jaat)  
 💬 Always open to tech discussions, collaboration, and learning!
 
 ---
