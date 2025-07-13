@@ -100,11 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-jaat&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- 🎥 Animated terminal preview -->
-<p align="center">
-  <img src="https://github-profile-terminal.vercel.app/api?user=coder-jaat&theme=dark&font=FiraCode&animation=default" alt="Terminal Preview" />
-</p>
-
 ---
 
 <h3 align="center">"Hack the Planet — Secure the Future" 🌍💻</h3>
